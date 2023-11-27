@@ -1,12 +1,12 @@
 body{
 
-{
-#sosiedade esportiva palmeiras{
+}
+#palmeiras{
      width: 100%;
-     {
+}
 
-        .prinsipal{
-            background: #cccccc;
+ .principal{
+     background: #cccccc;
 padding: 30px;
 }
 
@@ -29,6 +29,6 @@ ul{
     wigth: 20%;
     margin-right: 15%;
 }
-.sosiedade esportiva palmeiras{
+.imagenclubi{
     width: 50%;
 }
